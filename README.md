@@ -3,7 +3,7 @@
   <strong>Solo founder building <a href="https://runforge.sh">RunForge</a> — deploy agents, not infrastructure.</strong>
 </p>
 <p align="center">
-  <a href="https://runforge.sh">runforge.sh</a> · <a href="https://app.runforge.sh">dashboard</a> · <a href="https://www.kircle.app">kircle.app</a>
+  <a href="https://runforge.sh">runforge.sh</a> · <a href="https://adshield.dev">dashboard</a> ·  <a href="https://app.runforge.sh">dashboard</a> . <a href="https://www.kircle.app">kircle.app</a>
 </p>
 
 ---
